@@ -1,6 +1,6 @@
 # 📈 Contribution Graph
 
-[![Jay's GitHub Activity Graph](https://YOUR-VERCEL-APP.vercel.app/graph?username=jayjaiswal467&theme=github-compact)](https://github.com/jayjaiswal467)
+![Jay's GitHub Activity Graph](https://raw.githubusercontent.com/jayjaiswal467/jayjaiswal467/output/activity-graph.svg)
 
 ## 🔥 GitHub Streak
 
